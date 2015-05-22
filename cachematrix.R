@@ -1,5 +1,4 @@
-# makeCacheMatrix is a function that stores a list of 4 other functions
-# and returns it to an object.
+# makeCacheMatrix is a function that stores a list of 4 other functions and returns it to an object.
 # set() - define the matrix.
 # get() - retrieve the matrix.
 # setinverse() - set the inverse of the matrix.
